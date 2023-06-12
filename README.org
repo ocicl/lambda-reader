@@ -1,0 +1,10 @@
+* lambda-reader
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/lambda-reader.git   |
+| commit  |   |
+| systems | lambda-reader |
+|---------+-------------------------------------------|
+
