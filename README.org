@@ -2,8 +2,9 @@
 
 Use unicode character λ for LAMBDA in reader and printer
 
+
 |---------+--------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/frideau/lambda-reader.git |
-| commit  | 1209d688                                                     |
+| commit  | 1209d68                                                      |
 | systems | lambda-reader lambda-reader-8bit                             |
 |---------+--------------------------------------------------------------|
